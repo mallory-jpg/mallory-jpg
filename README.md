@@ -8,6 +8,7 @@
 * Engineer
 * Vice Chair of the Board for SSDP Foundation
 * Math Enthusiast
+* Afrofuturist
 
 **Currently...**
 (*as of October 2021*)
