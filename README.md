@@ -10,6 +10,7 @@
 * Math Enthusiast
 
 **Currently...**
+(*as of October 2021*)
 * learning Russian 
 * getting better at Java
 * looking for Data Engineering & Data Analysis positions
