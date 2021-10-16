@@ -15,15 +15,6 @@
 * excited about the intersection of technology, sociology, and medicine
 * a believer that The Future is Now ✨
 
-|**About Me**   |**Currently...**   |
-|---|---|
-|Pythonista  |learning Russian   |
-|Sociologist   |getting better at Java   |
-|Engineer   |looking for Data Engineering & Data Analysis positions   |
-|Writer   |excited about the intersection of technology, sociology, and medicine   |
-|Parliamentarian   |a believer that The Future is Now ✨   |
-
-
 ### Interests & Inspiration
 
 *The Dada art movement* is based on purposeful irrationality and the negation of tradition. The purpose of dada is to challenge societal norms and intentionally evoke emotions from disgust to confusion. It is an affront to classicism, and--like any good art--scandalized those who saw it. 
@@ -41,10 +32,10 @@ Dada was ahead of its time, but its influence lives on: sometimes still, rejecti
 <p align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duchamp's Toilet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Man Ray's Le Violon d'Ingres</p>
 
 
-**Find Me**
-* @culbert_mallory on Twitter
-* @mivcv on Instagram
-* malloryc@protonmail.com
+**Find Me 🔍**
+* Twitter: `@culbert_mallory`
+* Insta: `@mivcv`
+* Email: `malloryc@protonmail.com`
 
 
 <!---
