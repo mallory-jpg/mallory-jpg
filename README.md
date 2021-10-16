@@ -1,4 +1,4 @@
-# 🌈 `Dada Engineer` & ⚡️ `Data Engineer`
+# 🌈 `Dada Engineer` + ⚡️ `Data Engineer`
 ### About Me
 
 👋 Hi, I’m `@mallory-jpg`!
