@@ -5,8 +5,9 @@
 
 * Pythonista
 * Sociologist
-* Data/dada engineer
+* Engineer
 * Vice Chair of the Board for SSDP Foundation
+* Math Enthusiast
 
 **Currently...**
 * learning Russian 
