@@ -5,16 +5,16 @@
 
 * Pythonista
 * Sociologist
-* Engineer
-* Vice Chair of the Board for SSDP Foundation
+* Data Engineer
+* Member of the Board for SSDP Foundation
 * Math Enthusiast
+* Web3 Stan
 * Afrofuturist
 
 **Currently...**
-(*as of October 2021*)
+(*as of July 2022*)
 * learning Russian 
-* getting better at Java
-* looking for Data Engineering & Data Analysis positions
+* building an app that connects pedicabs & riders 
 * excited about the intersection of technology, sociology, and medicine
 * a believer that The Future is Now ✨
 
