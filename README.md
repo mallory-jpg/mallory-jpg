@@ -1,26 +1,8 @@
-# 🌈 `Dada Engineer` + ⚡️ `Data Engineer`
-### About Me
+# 🌈 `Dada Engineer` | ⚡️ `Data Engineer` | ✨ `AI Whisperer`
 
-👋 Hi, I’m `@mallory-jpg`!
+👋 Hi, I’m Mallory, Dada Engineer.
 
-* Pythonista
-* Sociologist
-* Data Engineer
-* Member of the Board for SSDP Foundation
-* Math Enthusiast
-* Web3 Stan
-* Afrofuturist
-
-**Currently...**
-(*as of July 2022*)
-* learning Russian 
-* building an app that connects pedicabs & riders 
-* excited about the intersection of technology, sociology, and medicine
-* a believer that The Future is Now ✨
-
-### Interests & Inspiration
-
-*The Dada art movement* is based on purposeful irrationality and the negation of tradition. The purpose of dada is to challenge societal norms and intentionally evoke emotions from disgust to confusion. It is an affront to classicism, and--like any good art--scandalized those who saw it. 
+**The Dada art movement** is based on purposeful irrationality and the negation of tradition. The purpose of dada is to challenge societal norms and intentionally evoke emotions from disgust to confusion. It is an affront to classicism, and--like any good art--scandalized those who saw it. 
 
 Dada was ahead of its time, but its influence lives on: sometimes still, rejecting reason and embracing absurdity creates something beautiful from the mundane. At the heart of Dadaism was the subversive use of commonplace items. Sometimes political, sometimes just subversive... the lesson here is that water can be made into wine, a toilet into a water fountain, and art can be made from ambiguity, from madness. It's time for a revival. 👻  
 
@@ -34,11 +16,36 @@ Dada was ahead of its time, but its influence lives on: sometimes still, rejecti
 
 <p align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duchamp's Toilet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Man Ray's Le Violon d'Ingres</p>
 
+### About Me
+
+* Pythonista
+* Sociologist
+* Data Engineer
+* Sex Educator
+* Published Writer
+* Web3 Stan
+* Futurist
+* Polyglot
+* Autist
+
+**Currently...**
+
+*April 2023*
+* learning Russian 
+* deploying a pedicab rideshare app
+* excited about the intersection of technology, sociology, and medicine
+* a believer that The Future is Now ✨
+
+### Data Engineering
+
+TBA
+
+### AI Whispering (Prompt Engineering)
 
 **Find Me 🔍**
 * Twitter: `@culbert_mallory`
 * Insta: `@mivcv`
-* Email: `malloryc@protonmail.com`
+* Email: `malloryc@proton.me`
 
 
 <!---
