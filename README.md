@@ -15,41 +15,6 @@ Dada was ahead of its time, but its influence lives on: sometimes still, rejecti
 </p>
 
 <p align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duchamp's Toilet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Man Ray's Le Violon d'Ingres</p>
-
-### About Me
-
-* Pythonista
-* Sociologist
-* Data Engineer
-* Sex Educator
-* Published Writer
-* Web3 Stan
-* Futurist
-* Polyglot
-* Autist
-
-**Currently...**
-
-*April 2023*
-* learning Russian 
-* deploying a pedicab rideshare app
-* excited about the intersection of technology, sociology, and medicine
-* a believer that The Future is Now ✨
-
-### Data Engineering
-
-TBA
-
-### AI Whispering (Prompt Engineering)
-
-TBA
-
-**Find Me 🔍**
-* Twitter: `@culbert_mallory`
-* Insta: `@mivcv`
-* Email: `malloryc@proton.me`
-
-
 <!---
 mallory-jpg/mallory-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
